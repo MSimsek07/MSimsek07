@@ -11,18 +11,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MSimsek07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSimsek07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=MSimsek07&icon=0&color=0)](https://visitcount.itsvg.in)
-<div class="container">
-  <div class="quote-container">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; padding: 10px; box-sizing: border-box;">
     <h3>✍️ Random Dev Quote</h3>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
   </div>
 
-  <div class="meme-container">
+  <div style="flex: 1; padding: 10px; box-sizing: border-box;">
     <h3>😂 Random Dev Meme</h3>
-    <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme">
+    <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="max-width: 100%; height: auto;">
   </div>
 </div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MSimsek07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -34,23 +33,3 @@
 </picture>
 
 ---
-  <style>
-
-    .container {
-      display: flex;
-      flex-direction: row; /* Item'ları yatayda sıralamak için */
-      align-items: center; /* Item'ları dikeyde hizalamak için (isteğe bağlı) */
-      justify-content: space-between; /* Item'ları eşit aralıklarla sıralamak için */
-    }
-
-    .quote-container, .meme-container {
-      flex: 1; /* Eşit genişlikte paylaşım için */
-      padding: 10px;
-      box-sizing: border-box;
-    }
-
-    .meme-container img {
-      max-width: 100%; /* Resmi container içinde tam genişlikte göstermek için */
-      height: auto;
-    }
-  </style>
