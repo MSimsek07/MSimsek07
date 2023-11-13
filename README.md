@@ -21,7 +21,7 @@
     <h3>😂 Random Dev Meme</h3>
     <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme">
   </div>
-</div>>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MSimsek07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
