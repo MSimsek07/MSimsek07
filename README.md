@@ -23,7 +23,9 @@
     <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="max-width: 100%; height: auto;">
   </div>
 </div>
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=MSimsek07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
