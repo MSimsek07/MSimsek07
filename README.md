@@ -11,7 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MSimsek07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSimsek07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=MSimsek07&icon=0&color=0)](https://visitcount.itsvg.in)
-<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <div style="flex: 1; padding: 10px; box-sizing: border-box;">
     <h3>✍️ Random Dev Quote</h3>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
