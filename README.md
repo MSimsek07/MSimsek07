@@ -21,7 +21,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MSimsek07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/CagatayAkkas/CagatayAkkas/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MSimsek07/MSimsek07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MSimsek07/MSimsek07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MSimsek07/MSimsek07/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 ### 😂 Random Dev Meme
