@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MSimsek07.MSimsek07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MSimsek07" />
 
 # 💫 About Me:
 👩‍💻 Skilled in Python, C#, Java, and JavaScript programming languages<br><br>🔨 Proficient in web development technologies such as HTML, CSS, and React<br><br>📊 Knowledgeable in data analysis and visualization tools such as pandas and matplotlib<br><br>🤖 Experience with machine learning frameworks like TensorFlow and PyTorch<br><br>📝 Strong communication and collaboration skills<br><br>👨‍👩‍👧‍👦 Passionate about learning and applying new technologies to solve problems<br><br>📚 Constantly improving my skills through online courses and self-directed learning<br><br>📧 Feel free to contact me for collaboration or project opportunities.
