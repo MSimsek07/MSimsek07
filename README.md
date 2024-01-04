@@ -1,5 +1,24 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MSimsek07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammet Ali+Şimşek!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/MSimsek07/MSimsek07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
 # 💫 About Me:
 👩‍💻 Skilled in Python, C#, Java, and JavaScript programming languages<br><br>🔨 Proficient in web development technologies such as HTML, CSS, and React<br><br>📊 Knowledgeable in data analysis and visualization tools such as pandas and matplotlib<br><br>🤖 Experience with machine learning frameworks like TensorFlow and PyTorch<br><br>📝 Strong communication and collaboration skills<br><br>👨‍👩‍👧‍👦 Passionate about learning and applying new technologies to solve problems<br><br>📚 Constantly improving my skills through online courses and self-directed learning<br><br>📧 Feel free to contact me for collaboration or project opportunities.
 
