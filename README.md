@@ -59,21 +59,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSimsek07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
-
-
+    
 <div align="center">
-
     <h3>✍️ Random Dev Quote</h3>
-    
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-    
-    <h3>😂 Random Dev Meme</h3>
-    
+     <h3>😂 Random Dev Meme</h3>
     <img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" style="max-width: 100%; height: auto;">
-
 </div>
 
-
-
+    
 
 ---
