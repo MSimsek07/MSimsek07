@@ -13,11 +13,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **how to deal with coding interviews**
+ 🔭 I’m currently working on **how to deal with coding interviews as a juniour.**
  
  🌱 I’m currently learning **Flutter, Project Management, Deep Learning...**
 
- 💬 Ask me about **anything [here](https://github.com/MSimsek07/MSimsek07/issues)**
+ 💬 Ask me about **anything via [here](https://github.com/MSimsek07/MSimsek07/issues)**
 
  📧 Feel free to contact me for collaboration or project opportunities.
 
