@@ -1,28 +1,26 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammet+Ali+Şimşek!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammet+Ali+Şimşek!;Thank+you+for+visiting+my+Github+profile" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Türkiye TR</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **how to deal with coding interviews**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Flutter, Project Management, Deep Learning...**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/MSimsek07/MSimsek07/issues)**
+ 💬 Ask me about **anything [here](https://github.com/MSimsek07/MSimsek07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 📧 Feel free to contact me for collaboration or project opportunities.
+
+ ⚡ The fact is **in the future, learning how to code would be as common as basic literacy!**
 
  </div>
  
-# 💫 About Me:
-👩‍💻 Skilled in Python, C#, Java, and JavaScript programming languages<br><br>🔨 Proficient in web development technologies such as HTML, CSS, and React<br><br>📊 Knowledgeable in data analysis and visualization tools such as pandas and matplotlib<br><br>🤖 Experience with machine learning frameworks like TensorFlow and PyTorch<br><br>📝 Strong communication and collaboration skills<br><br>👨‍👩‍👧‍👦 Passionate about learning and applying new technologies to solve problems<br><br>📚 Constantly improving my skills through online courses and self-directed learning<br><br>📧 Feel free to contact me for collaboration or project opportunities.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.finifugal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammet-ali-simsek) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammetsimsek306) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/hewaits) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/livayi_sama) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/finifugalOne) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@out-of-sight) 
 
