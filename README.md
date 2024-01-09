@@ -4,8 +4,10 @@
 
 </div>
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+<div align="center">
+    
+   [![Hello World, I'm Muhammet!](assets/giphy.gif)](https://github.com/MSimsek07)
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammet+Ali+Şimşek!;Have+a+nice+day!" />
