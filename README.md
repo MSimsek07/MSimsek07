@@ -13,19 +13,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammet+Ali+Şimşek!;Welcome+to+my+profile!" />
 </h1>
 
-<h3 align="center">A passionate software developer from Türkiye TR</h3>
+<h3 align="center">A curious software enthusiast and engineer candidate from Türkiye</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **how to deal with coding interviews as a juniour.**
+ 🔭 I’m currently working on **how to deal with coding interviews as a junior software engineer candidate**.
  
  🌱 I’m currently learning **Flutter, Project Management, Deep Learning...**
 
- 💬 Ask me about **anything via [here](https://github.com/MSimsek07/MSimsek07/issues)**
+ 💬 Ask me about **anything via [here](https://github.com/MSimsek07/MSimsek07/issues)**.
 
- 📧 Feel free to contact me for collaboration or project opportunities.
+ 📧 Feel free to contact me for collaboration, projects or internship opportunities.
 
  ⚡ The fact is **in the future, learning how to code would be as common as basic literacy!**
 
