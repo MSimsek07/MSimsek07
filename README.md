@@ -10,7 +10,8 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammet+Ali+Şimşek!;Welcome+to+my+profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammet+Ali+Şimşek!;Welcome+to+my+profile!;I+like+coding!;I+like+table+tennis;A+weeb+▬▬ι═══════ﺤ" />
+    
 </h1>
 
 <h3 align="center">A curious software enthusiast and an engineer candidate from Türkiye</h3>
