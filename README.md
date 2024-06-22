@@ -22,7 +22,7 @@
  
  🔭 I’m currently working on **how to deal with coding interviews as a junior software engineer candidate**.
  
- 🌱 I’m currently learning **Flutter, Project Management, Deep Learning...**
+ 🌱 I’m currently learning **Deep Learning, LLM implementations into the software applications via their APIs (OPENAI, Groq, Crewai, GeminiAI, Vertexai, Mistral)...**
 
  💬 Ask me about **anything via [here](https://github.com/MSimsek07/MSimsek07/issues)**.
 
