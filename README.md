@@ -67,9 +67,20 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MSimsek07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSimsek07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MSimsek07&theme=gotham">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MSimsek07&theme=gotham">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MSimsek07&theme=gotham">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MSimsek07&theme=gotham">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MSimsek07&theme=gotham">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=MSimsek07&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MSimsek07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+<div align=center> 
+  <h2>Stats</h2>
+  
 </div>
     
 <div align="center">
